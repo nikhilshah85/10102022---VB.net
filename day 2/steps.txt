@@ -1,0 +1,55 @@
+1. create a new Application serializationDemo
+2. Add a new class Accounts 
+	add 4 properties
+		accNo
+		accName
+		accBalance
+		accIsActive
+
+	add 2 functions widraw and deposit
+
+3. in the Main function - try serialization
+	create more than 5 accounts 
+
+	  ''Step 1: Create a new object and assign the properties
+        'Dim accObj As New Accounts()
+        'Console.WriteLine("Enter Account Number")
+        'accObj.AccNo = Console.ReadLine()
+        'Console.WriteLine("Enter Account Name")
+        'accObj.AccName = Console.ReadLine()
+        'Console.WriteLine("Enter Account Balance")
+        'accObj.AccBalance = Console.ReadLine()
+        'Console.WriteLine("Enter Account Is Active")
+        'accObj.AccIsActive = Console.ReadLine()
+
+        ''step 2: we need a new file object, as we want to save the object to file
+        'Dim myFile As New FileStream(accObj.AccNo & ".xml", FileMode.Create, FileAccess.Write)
+
+        ''step 3 : create a new object of XMLSerializer
+        'Dim xml As New XmlSerializer(GetType(Accounts))
+        'xml.Serialize(myFile, accObj)
+
+        'Console.WriteLine("Object Serialized - saved to disk")
+
+
+step 4: try deserialization
+	 'filestream object with read
+
+        Console.WriteLine("Enter Your Account No")
+        Dim accNo As Integer = Console.ReadLine()
+        Dim file As New FileStream(accNo & ".xml", FileMode.Open, FileAccess.Read)
+
+
+        'XML Serializer object
+        Dim getAccount As New XmlSerializer(GetType(Accounts))
+
+        'use Deserialize method of xmlserializer
+
+        Dim acc As Accounts 'this is not a new account - we did not use New keyword
+
+        acc = getAccount.Deserialize(file)
+
+        Console.WriteLine("Account Number : " & acc.AccNo)
+        Console.WriteLine("Account Name : " & acc.AccName)
+        Console.WriteLine("Account Balance : " & acc.AccBalance)
+        Console.WriteLine("Account Is Active : " & acc.AccIsActive)

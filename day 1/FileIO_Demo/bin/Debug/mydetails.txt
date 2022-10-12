@@ -1,0 +1,6 @@
+Hello My name is Nikhil
+I am from Mumbai
+I am a Developer
+I Love training
+I work on Microsoft technologies
+I know many languages

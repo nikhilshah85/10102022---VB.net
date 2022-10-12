@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Accounts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AccNo>103</AccNo>
+  <AccName>Rajul</AccName>
+  <AccBalance>11250</AccBalance>
+  <AccIsActive>false</AccIsActive>
+</Accounts>

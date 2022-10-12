@@ -1,0 +1,12 @@
+C:\Users\hp\Desktop\11102022 -VB.Net\day 2\OOPS_demo_vb\bin\Debug\OOPS_demo_vb.exe.config
+C:\Users\hp\Desktop\11102022 -VB.Net\day 2\OOPS_demo_vb\bin\Debug\OOPS_demo_vb.exe
+C:\Users\hp\Desktop\11102022 -VB.Net\day 2\OOPS_demo_vb\bin\Debug\OOPS_demo_vb.pdb
+C:\Users\hp\Desktop\11102022 -VB.Net\day 2\OOPS_demo_vb\bin\Debug\OOPS_demo_vb.xml
+C:\Users\hp\Desktop\11102022 -VB.Net\day 2\OOPS_demo_vb\obj\Debug\OOPS_demo_vb.vbproj.AssemblyReference.cache
+C:\Users\hp\Desktop\11102022 -VB.Net\day 2\OOPS_demo_vb\obj\Debug\OOPS_demo_vb.vbproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\11102022 -VB.Net\day 2\OOPS_demo_vb\obj\Debug\OOPS_demo_vb.Resources.resources
+C:\Users\hp\Desktop\11102022 -VB.Net\day 2\OOPS_demo_vb\obj\Debug\OOPS_demo_vb.vbproj.GenerateResource.cache
+C:\Users\hp\Desktop\11102022 -VB.Net\day 2\OOPS_demo_vb\obj\Debug\OOPS_demo_vb.vbproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\11102022 -VB.Net\day 2\OOPS_demo_vb\obj\Debug\OOPS_demo_vb.exe
+C:\Users\hp\Desktop\11102022 -VB.Net\day 2\OOPS_demo_vb\obj\Debug\OOPS_demo_vb.xml
+C:\Users\hp\Desktop\11102022 -VB.Net\day 2\OOPS_demo_vb\obj\Debug\OOPS_demo_vb.pdb

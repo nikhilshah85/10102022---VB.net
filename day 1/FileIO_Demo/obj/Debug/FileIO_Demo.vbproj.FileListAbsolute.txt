@@ -1,0 +1,12 @@
+C:\Users\hp\Desktop\11102022 -VB.Net\day 1\FileIO_Demo\bin\Debug\FileIO_Demo.exe.config
+C:\Users\hp\Desktop\11102022 -VB.Net\day 1\FileIO_Demo\bin\Debug\FileIO_Demo.exe
+C:\Users\hp\Desktop\11102022 -VB.Net\day 1\FileIO_Demo\bin\Debug\FileIO_Demo.pdb
+C:\Users\hp\Desktop\11102022 -VB.Net\day 1\FileIO_Demo\bin\Debug\FileIO_Demo.xml
+C:\Users\hp\Desktop\11102022 -VB.Net\day 1\FileIO_Demo\obj\Debug\FileIO_Demo.vbproj.AssemblyReference.cache
+C:\Users\hp\Desktop\11102022 -VB.Net\day 1\FileIO_Demo\obj\Debug\FileIO_Demo.vbproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\11102022 -VB.Net\day 1\FileIO_Demo\obj\Debug\FileIO_Demo.Resources.resources
+C:\Users\hp\Desktop\11102022 -VB.Net\day 1\FileIO_Demo\obj\Debug\FileIO_Demo.vbproj.GenerateResource.cache
+C:\Users\hp\Desktop\11102022 -VB.Net\day 1\FileIO_Demo\obj\Debug\FileIO_Demo.vbproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\11102022 -VB.Net\day 1\FileIO_Demo\obj\Debug\FileIO_Demo.exe
+C:\Users\hp\Desktop\11102022 -VB.Net\day 1\FileIO_Demo\obj\Debug\FileIO_Demo.xml
+C:\Users\hp\Desktop\11102022 -VB.Net\day 1\FileIO_Demo\obj\Debug\FileIO_Demo.pdb

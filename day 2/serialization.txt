@@ -1,0 +1,76 @@
+1. Class - this is a design to create multiple object
+2. classes will have variables, properties and functions
+	class is made up of
+		Variables
+		Properties
+		Function
+		Constructors
+		Events and delegates
+		Enums
+
+	-----------------------------------------
+Encapsulation
+			We need variables for storing data
+				This is a vital element(variable)
+		we keep this variable as private and apply a wrapper on this
+		variables, called property and function
+			property will have get and set functions
+
+
+		Accounts(BankAccount) - accNo, accName, accBalance, accIsActive
+
+
+Abstraction : Consider only those properties and functions necessary
+			for your classes
+
+Inheritance
+
+Polymorphism 
+
+----------------------------------------------------------------------------------
+		In the same project = add a new class Employee
+
+			it will have below properties
+				empNo
+				empName
+				empDesignation
+				empSalary
+				empAvailableLeaves
+
+		Functions - 1 Give Bonus(percentage) - it will return percentage of 					salary
+
+			     2. apply leave (days) - deduct empAvailableLeaves and 				 return	remaining days of leave			
+
+
+-------------------------------------------------------------------------------
+	Objects are creted in on RAM
+		Process of getting this object out from RAM and storing it on Disk
+			is called - Serialization
+		Persist the state of an object to a storage / network is called
+		Serialization
+		so that object can be recreated
+
+		The opposite of this is called as DeSerialization
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
