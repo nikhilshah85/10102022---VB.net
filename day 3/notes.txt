@@ -1,0 +1,57 @@
+1. VB.net and tools and basic programming related examples
+	FileIO
+2. Serialization 
+	Persist the object to database
+	OOPS - classes, functions, properties etc...
+3. ADO.Net - store Data to database and perform CRUD Operations
+	C - Create a new record (Insert)
+	R - Read the data 
+	U - Update an existing data
+	D - Delete the data
+
+	a. create a new database, create the tables and insert some sample records
+
+	create database bankingDB_VB
+	
+	use bankingDB_VB
+	
+	create table Accounts
+	( 
+		accNo int primary key,
+		accName varchar(20),
+		accType varchar(20),
+		accBalance int,
+		accIsActive bit
+	)
+
+---------------------------------------------------------------------------------
+
+			ADO.Net
+	System.Data
+	System.Data.SqlClient
+
+	SqlConnection
+	SqlCommand
+		methods of SQLcommand obj
+			executeNonQuery() - insert, update and delete
+			executeScalar() - sum,min,max,count,avg etc...
+			executeReader() - read the data from sql server (select)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
